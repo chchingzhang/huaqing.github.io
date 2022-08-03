@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://huaqing.github.io</id>
+    <title>等一个人读书-赏析</title>
+    <updated>2022-08-03T06:22:57.171Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://huaqing.github.io"/>
+    <link rel="self" href="https://huaqing.github.io/atom.xml"/>
+    <subtitle>你若问我是个什么样的人？
+我是个春天种树，秋天扫落叶的人。</subtitle>
+    <logo>https://huaqing.github.io/images/avatar.png</logo>
+    <icon>https://huaqing.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 等一个人读书-赏析</rights>
+    <entry>
+        <title type="html"><![CDATA[我玩儿]]></title>
+        <id>https://huaqing.github.io/wo-wan-er/</id>
+        <link href="https://huaqing.github.io/wo-wan-er/">
+        </link>
+        <updated>2022-08-03T05:19:58.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://huaqing.github.io/hello-gridea/</id>
+        <link href="https://huaqing.github.io/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
